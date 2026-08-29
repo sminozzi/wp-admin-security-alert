@@ -1,5 +1,5 @@
 # wp-admin-security-alert
-R
+
 
 **Contributors:** Bill Minozzi   
 **Tags:** security, admin, notification, alerts, audit, email  
